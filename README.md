@@ -8,9 +8,9 @@ Most of my work revolves around React and Next.js, but I’m comfortable owning 
 ---
 
 ### ⚒️ Tech & Tools
-React · Next.js · TypeScript · Tailwind · SCSS · Redux Toolkit
-NestJS · Prisma · PostgreSQL
-Figma · Git · Docker · Postman
+Frontend: React · Next.js · TypeScript · Tailwind · SCSS · Redux Toolkit
+Backend: NestJS · Prisma · PostgreSQL
+Tools: Figma · Git · Docker · Postman
 
 ---
 
